@@ -32,9 +32,9 @@ statuses:
 
 promises:
     -
-        title: 'Test test test'
-        status: Not started
-        category: First 100 Days
+        title: 'No more trips Maralago'
+        status: Broken
+        category: Culture
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 'https://redd.it/5d4r8m'
